@@ -3,7 +3,7 @@
 ** The process of the internship is a business workflow that would be worked on in this project. This process needs to be implemented using Bonita framework. The process includes several steps or tasks that need to be completed in order to complete the subject internship confirmation process in the university.
 
 # Motivation
-The digitization of administrative workflows has become an important topic in recent years.The introduction of digital solutions can bring various benefits, such as more efficient processes, faster response times, better data management and greater transparency. In this context, this project will be developed using the Bonita Framework to show how Business workflow frameworks lead to a better productivity from all angles.
+The digitalization of administrative workflows has become an important topic in recent years.The introduction of digital solutions can bring various benefits, such as more efficient processes, faster response times, better data management and greater transparency. In this context, this project will be developed using the Bonita Framework to show how Business workflow frameworks lead to a better productivity from all angles.
 
 <img src="https://i.ibb.co/6Fm9832/Screenshot-2023-05-02-174203.png" width="550" title = "screenshot">
 
@@ -40,7 +40,7 @@ The digitization of administrative workflows has become an important topic in re
 - SMTP Server:	smtp-relay.sendinblue.com
 - Port:	        587
 - Login:	rami.bachelorarbeit@gmail.com
-- Passwort: xsmtpsib-a5c4598fd4e649b96a29f7a0b8e54151404527ed17edc3dfd65a3871e578eec9-zx6wWqtRmCP7fkIO
+- Password: xsmtpsib-a5c4598fd4e649b96a29f7a0b8e54151404527ed17edc3dfd65a3871e578eec9-zx6wWqtRmCP7fkIO
 
 
 # Email SMTP Server setup:
@@ -53,18 +53,25 @@ The digitization of administrative workflows has become an important topic in re
 
 # How to run the project:
 
-1) Install Bonita Studio 7: 	https://www.bonitasoft.com/downloads
+1) Install Bonita Studio 7 	https://www.bonitasoft.com/downloads
 
 2) Download the .bos file
 
 3) Click on "File" in the Bonita App, "Import Project" and browse to the .bos file
 
-4) Click on next and wait for the project to be imported(make sure to choose the UNI.organization and "0571352" is the default username)
+4) Click on next and wait for the project to be imported (make sure to choose the UNI.organization and "0571352" is the default username)
 
-5) The bonita web page will be opened on the browser where the process can be tested with the default user logged in.
+5) The bonita web page will be opened on the browser where the process can be tested with the default user logged in. 
 
-6) Go to "Processes" tab and start the process with the name "Praktikum"
+6) Go to "Processes" tab and start the process with the name "Praktikum" (Test the completion of different tasks through signing out and logging in to different users)
 
+
+# Bonita default Users:
+- 0571352 		- pw:123 		- email: rami.bachelorarbeit@gmail.com
+- Erik.Rodner 		- pw:123		- email: erik.bachelorarbeit@gmail.com
+- Betreuer1 		- pw:123 		- email: betreuer1.bachelorarbeit@gmail.com
+- Betreuer2 		- pw:123 		- email: betreuer2.bachelorarbeit@gmail.com
+- Betreuer3 		- pw:123 		- email: betreuer3.bachelorarbeit@gmail.com
 
 - Note: The user list, usernames list and emails assigned to each user are set to default emails and can be edited to the needed correspondents in the Organizations tab
 
