@@ -5,7 +5,7 @@
 # Motivation
 The digitization of administrative workflows has become an important topic in recent years.The introduction of digital solutions can bring various benefits, such as more efficient processes, faster response times, better data management and greater transparency. In this context, this project will be developed using the Bonita Framework to show how Business workflow frameworks lead to a better productivity from all angles.
 
-<img src="https://ibb.co/VTtnx7d" width="550" title = "screenshot">
+<img src="https://i.ibb.co/6Fm9832/Screenshot-2023-05-02-174203.png" width="550" title = "screenshot">
 
 
 # Technology stack:
@@ -26,15 +26,15 @@ The digitization of administrative workflows has become an important topic in re
 
 
 # Testing Emails:
-- rami.bachelorarbeit@gmail.com		pw: Test123456789**
+- rami.bachelorarbeit@gmail.com				pw: Test123456789**
 
-- rami.bachelorarbeit@gmail.com		pw: Test123456789**
+- rami.bachelorarbeit@gmail.com				pw: Test123456789**
 
-- betreuer1.bachelorarbeit@gmail.com    pw: Test123456789*
+- betreuer1.bachelorarbeit@gmail.com   		 	pw: Test123456789*
 
-- betreuer2.bachelorarbeit@gmail.com	pw: Test123456789*
+- betreuer2.bachelorarbeit@gmail.com			pw: Test123456789*
 
-- betreuer3.bachelorarbeit@gmail.com	pw: Test123456789*
+- betreuer3.bachelorarbeit@gmail.com			pw: Test123456789*
 
 # SMTP configuration:
 - SMTP Server:	smtp-relay.sendinblue.com
@@ -47,7 +47,7 @@ The digitization of administrative workflows has become an important topic in re
 
 1) Login to sendinblue account on https://app.sendinblue.com/
 
-rami.bachelorarbeit@gmail.com		pw:Rami123456789
+		rami.bachelorarbeit@gmail.com				pw:Rami123456789
 
 2) Navigate to SMTP & API and make sure the SMPT with the name "bachelorarbeit "is active otherwise set it to active
 
@@ -64,7 +64,6 @@ rami.bachelorarbeit@gmail.com		pw:Rami123456789
 5) The bonita web page will be opened on the browser where the process can be tested with the default user logged in.
 
 6) Go to "Processes" tab and start the process with the name "Praktikum"
-
 
 
 - Note: The user list, usernames list and emails assigned to each user are set to default emails and can be edited to the needed correspondents in the Organizations tab
