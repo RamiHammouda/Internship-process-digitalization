@@ -26,15 +26,15 @@ The digitization of administrative workflows has become an important topic in re
 
 
 # Testing Emails:
-- rami.bachelorarbeit@gmail.com				pw: Test123456789**
+- rami.bachelorarbeit@gmail.com				- pw: Test123456789**
 
-- rami.bachelorarbeit@gmail.com				pw: Test123456789**
+- rami.bachelorarbeit@gmail.com				- pw: Test123456789**
 
-- betreuer1.bachelorarbeit@gmail.com   		 	pw: Test123456789*
+- betreuer1.bachelorarbeit@gmail.com   		 	- pw: Test123456789*
 
-- betreuer2.bachelorarbeit@gmail.com			pw: Test123456789*
+- betreuer2.bachelorarbeit@gmail.com			- pw: Test123456789*
 
-- betreuer3.bachelorarbeit@gmail.com			pw: Test123456789*
+- betreuer3.bachelorarbeit@gmail.com			- pw: Test123456789*
 
 # SMTP configuration:
 - SMTP Server:	smtp-relay.sendinblue.com
@@ -53,7 +53,7 @@ The digitization of administrative workflows has become an important topic in re
 
 # How to run the project:
 
-1) Install Bonita 7.15
+1) Install Bonita Studio 7: 	https://www.bonitasoft.com/downloads
 
 2) Download the .bos file
 
